@@ -1,2 +1,2 @@
 # COGS138_GROUP_13
-COGS 139 Final Project
+COGS 138 Final Project
